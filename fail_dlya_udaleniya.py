@@ -1,0 +1,1 @@
+print('udali menya')
