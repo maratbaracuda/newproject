@@ -1,5 +1,5 @@
 class House:
-    def __init__(self)
+    def __init__(self):
         self.name = name
         self.price = price
         self.size = size
